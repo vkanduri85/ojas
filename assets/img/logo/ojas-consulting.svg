@@ -1,0 +1,32 @@
+<svg width="320" height="80" viewBox="0 0 320 80" xmlns="http://www.w3.org/2000/svg">
+  <!-- Background -->
+  <rect width="320" height="80" fill="white"/>
+
+  <!-- Symbol: rising bar & circle for vitality / growth -->
+  <g transform="translate(20,20)">
+    <!-- Bar -->
+    <rect x="10" y="10" width="16" height="30" rx="3" fill="#2563EB"/>
+    <!-- Circle (energy / ojas) -->
+    <circle cx="18" cy="8" r="6" fill="#F97316"/>
+  </g>
+
+  <!-- Text: OJAS -->
+  <text x="70" y="38"
+        font-family="system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif"
+        font-size="28"
+        font-weight="600"
+        letter-spacing="2"
+        fill="#111827">
+    OJAS
+  </text>
+
+  <!-- Text: consulting -->
+  <text x="72" y="56"
+        font-family="system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif"
+        font-size="12"
+        letter-spacing="4"
+        fill="#6B7280"
+        text-transform="uppercase">
+    CONSULTING
+  </text>
+</svg>

@@ -1,0 +1,25 @@
+<svg width="320" height="80" viewBox="0 0 320 80" xmlns="http://www.w3.org/2000/svg">
+  <rect width="320" height="80" fill="#4285F4;"/>
+
+  <!-- Symbol: simple growth arrow -->
+  <g transform="translate(24,18)" fill="#2563EB">
+    <polygon points="0,32 0,26 18,10 28,18 46,0 46,8 28,26 18,18 0,32"/>
+  </g>
+
+  <!-- Text -->
+  <text x="80" y="38"
+        font-family="system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif"
+        font-size="28"
+        font-weight="600"
+        letter-spacing="2"
+        fill="#111827">
+    OJAS
+  </text>
+  <text x="82" y="56"
+        font-family="system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif"
+        font-size="11"
+        letter-spacing="4"
+        fill="#6B7280">
+    CONSULTING
+  </text>
+</svg>
