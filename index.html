@@ -262,35 +262,26 @@ Poor data quality costs businesses time, money, and competitive advantage. We el
         <div class="row">
           <div class="col-lg-8">
             <div class="contact-form-wrapper">
-              <form action="assets/php/contact.php" method="POST">
+              <form action="https://docs.google.com/forms/d/e/1FAIpQLSftKVqJXu3KXfiaefsYYgIQWG8yRFIxpOoKnA92LshNu8Tyww/formResponse" 
+  method="POST" 
+  target="" id="contact-form">
                 <div class="row">
                   <div class="col-md-6">
                     <div class="single-input">
-                      <input type="text" id="name" name="name" class="form-input" placeholder="Name">
+                      <input type="text" id="name" name="entry.2005620554" class="form-input" placeholder="Name">
                       <i class="lni lni-user"></i>
                     </div>
                   </div>
                   <div class="col-md-6">
                     <div class="single-input">
-                      <input type="email" id="email" name="email" class="form-input" placeholder="Email">
+                      <input type="email" id="email" name="entry.1045781291" class="form-input" placeholder="Email">
                       <i class="lni lni-envelope"></i>
                     </div>
                   </div>
-                  <div class="col-md-6">
+                 
+                    <div class="col-md-12">
                     <div class="single-input">
-                      <input type="text" id="number" name="number" class="form-input" placeholder="Number">
-                      <i class="lni lni-phone"></i>
-                    </div>
-                  </div>
-                  <div class="col-md-6">
-                    <div class="single-input">
-                      <input type="text" id="subject" name="subject" class="form-input" placeholder="Subject">
-                      <i class="lni lni-text-format"></i>
-                    </div>
-                  </div>
-                  <div class="col-md-12">
-                    <div class="single-input">
-                      <textarea name="message" id="message" class="form-input" placeholder="Message" rows="6"></textarea>
+                      <textarea name="entry.839337160" id="message" class="form-input" placeholder="Message" rows="6"></textarea>
                       <i class="lni lni-comments-alt"></i>
                     </div>
                   </div>
@@ -409,6 +400,24 @@ Poor data quality costs businesses time, money, and competitive advantage. We el
     <script src="assets/js/tiny-slider.js"></script>
     <script src="assets/js/wow.min.js"></script>
     <script src="assets/js/main.js"></script>
+    <script>
+  document.getElementById('contact-form').addEventListener('submit', function(e) {
+    e.preventDefault();
+
+    const form = this;
+    const data = new FormData(form);
+
+    fetch(form.action, {
+      method: 'POST',
+      body: data,
+      mode: 'no-cors'
+    }).then(() => {
+      window.location.href = '/thank-you';
+    }).catch(() => {
+      window.location.href = '/thank-you';
+    });
+  });
+</script>
   </body>
 </body>
 </html>
