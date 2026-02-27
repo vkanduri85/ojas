@@ -2,14 +2,14 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:1313/ojas/categories/</loc>
+    <loc>https://vkanduri85.github.io/ojas/categories/</loc>
   </url><url>
-    <loc>http://localhost:1313/ojas/</loc>
+    <loc>https://vkanduri85.github.io/ojas/</loc>
   </url><url>
-    <loc>http://localhost:1313/ojas/tags/</loc>
+    <loc>https://vkanduri85.github.io/ojas/tags/</loc>
   </url><url>
-    <loc>http://localhost:1313/ojas/test/</loc>
+    <loc>https://vkanduri85.github.io/ojas/test/</loc>
   </url><url>
-    <loc>http://localhost:1313/ojas/thank-you/</loc>
+    <loc>https://vkanduri85.github.io/ojas/thank-you/</loc>
   </url>
 </urlset>

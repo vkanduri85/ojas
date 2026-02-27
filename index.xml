@@ -2,24 +2,24 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Home on Ojas Consultancy</title>
-    <link>http://localhost:1313/ojas/</link>
+    <link>https://vkanduri85.github.io/ojas/</link>
     <description>Recent content in Home on Ojas Consultancy</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <atom:link href="http://localhost:1313/ojas/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://vkanduri85.github.io/ojas/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Test Page</title>
-      <link>http://localhost:1313/ojas/test/</link>
+      <link>https://vkanduri85.github.io/ojas/test/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/ojas/test/</guid>
-      <description>&lt;section style=&#34;text-align: center; padding: 80px 20px;&#34;&gt;&#xA;  &lt;h1&gt;Thank You!&lt;/h1&gt;&#xA;  &lt;p&gt;We&#39;ve received your message and will be in touch soon.&lt;/p&gt;&#xA;  &lt;a href=&#34;http://localhost:1313/ojas/&#34;&gt;Back to Home&lt;/a&gt;&#xA;&lt;/section&gt;</description>
+      <guid>https://vkanduri85.github.io/ojas/test/</guid>
+      <description>&lt;section style=&#34;text-align: center; padding: 80px 20px;&#34;&gt;&#xA;  &lt;h1&gt;Thank You!&lt;/h1&gt;&#xA;  &lt;p&gt;We&#39;ve received your message and will be in touch soon.&lt;/p&gt;&#xA;  &lt;a href=&#34;https://vkanduri85.github.io/ojas/&#34;&gt;Back to Home&lt;/a&gt;&#xA;&lt;/section&gt;</description>
     </item>
     <item>
       <title>Thank you</title>
-      <link>http://localhost:1313/ojas/thank-you/</link>
+      <link>https://vkanduri85.github.io/ojas/thank-you/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/ojas/thank-you/</guid>
-      <description>&lt;section id=&#34;feature&#34; class=&#34;feature-section feature-style-5&#34;&gt;&#xA;&#x9;&#x9;&#x9;&lt;div class=&#34;container&#34;&gt;&#xA;&#x9;&#x9;&#x9;&#x9;&lt;div class=&#34;row justify-content-center&#34;&gt;&#xA;&#x9;&#x9;&#x9;&#x9;&#x9;&lt;div class=&#34;col-xxl-5 col-xl-5 col-lg-7 col-md-8&#34;&gt;&#xA;&#x9;&#x9;&#x9;&#x9;&#x9;&#x9;&lt;div class=&#34;section-title text-center mb-60&#34;&gt;&#xA;&#x9;&#x9;&#x9;&#x9;&#x9;&#x9;&#x9;&lt;h2 class=&#34;mb-15 wow fadeInUp&#34; data-wow-delay=&#34;.2s&#34;&gt;&#xA;&#x9;&#x9;&#x9;&#x9;&#x9;&#x9;&#x9;&#x9;Thank You!&#xA;&#x9;&#x9;&#x9;&#x9;&#x9;&#x9;&#x9;&lt;/h3&gt;&#xA;&#x9;&#x9;&#x9;&#x9;&#x9;&#x9;&#x9;&lt;p class=&#34;wow fadeInUp&#34; data-wow-delay=&#34;.4s&#34;&gt;&#xA;&#x9;&#x9;&#x9;&#x9;&#x9;&#x9;&#x9;&#x9;We&#39;ve received your message and will be in touch soon.&#xA;                                 &lt;a href=&#34;http://localhost:1313/ojas/&#34;&gt;Back to Home&lt;/a&gt;&#xA;&#x9;&#x9;&#x9;            &#x9; &lt;/p&gt;&#xA;                         &lt;/div&gt;&#xA;&#x9;&#x9;&#x9;&#x9;&#x9;&lt;/div&gt;&#xA;&#x9;&#x9;&#x9;&#x9;&lt;/div&gt;&#xA;&#x9;&#x9;&#x9;&lt;/div&gt;&#xA;&#x9;&#x9;&lt;/section&gt;</description>
+      <guid>https://vkanduri85.github.io/ojas/thank-you/</guid>
+      <description>&lt;section id=&#34;feature&#34; class=&#34;feature-section feature-style-5&#34;&gt;&#xA;&#x9;&#x9;&#x9;&lt;div class=&#34;container&#34;&gt;&#xA;&#x9;&#x9;&#x9;&#x9;&lt;div class=&#34;row justify-content-center&#34;&gt;&#xA;&#x9;&#x9;&#x9;&#x9;&#x9;&lt;div class=&#34;col-xxl-5 col-xl-5 col-lg-7 col-md-8&#34;&gt;&#xA;&#x9;&#x9;&#x9;&#x9;&#x9;&#x9;&lt;div class=&#34;section-title text-center mb-60&#34;&gt;&#xA;&#x9;&#x9;&#x9;&#x9;&#x9;&#x9;&#x9;&lt;h2 class=&#34;mb-15 wow fadeInUp&#34; data-wow-delay=&#34;.2s&#34;&gt;&#xA;&#x9;&#x9;&#x9;&#x9;&#x9;&#x9;&#x9;&#x9;Thank You!&#xA;&#x9;&#x9;&#x9;&#x9;&#x9;&#x9;&#x9;&lt;/h3&gt;&#xA;&#x9;&#x9;&#x9;&#x9;&#x9;&#x9;&#x9;&lt;p class=&#34;wow fadeInUp&#34; data-wow-delay=&#34;.4s&#34;&gt;&#xA;&#x9;&#x9;&#x9;&#x9;&#x9;&#x9;&#x9;&#x9;We&#39;ve received your message and will be in touch soon.&#xA;                                 &lt;a href=&#34;https://vkanduri85.github.io/ojas/&#34;&gt;Back to Home&lt;/a&gt;&#xA;&#x9;&#x9;&#x9;            &#x9; &lt;/p&gt;&#xA;                         &lt;/div&gt;&#xA;&#x9;&#x9;&#x9;&#x9;&#x9;&lt;/div&gt;&#xA;&#x9;&#x9;&#x9;&#x9;&lt;/div&gt;&#xA;&#x9;&#x9;&#x9;&lt;/div&gt;&#xA;&#x9;&#x9;&lt;/section&gt;</description>
     </item>
   </channel>
 </rss>
